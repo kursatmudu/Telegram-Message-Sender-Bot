@@ -1,0 +1,9 @@
+asyncio
+flask
+pika
+pyyaml
+telethon
+mysql-connector-python
+pymongo
+requests
+pytz

@@ -1,0 +1,8 @@
+telegram_api_id: YOUR_API_ID
+telegram_api_hash: YOUR_API_HASH
+telegram_user:
+    {
+    user1: 'telegram_session1',
+    user2: 'telegram_session2'
+    }
+telegram_target_channel: YOUR_TARGET_CHANNEL
